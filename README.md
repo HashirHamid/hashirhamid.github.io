@@ -1,6 +1,6 @@
 # Hashir Hamid's Personal Portfolio website
 
-Website link: [hashirhamid.github.io](hashirhamid.github.io)
+Website link: ([hashirhamid.github.io](https://hashirhamid.github.io/))
 
 Portfolio cloned from Suresh Murali
 
